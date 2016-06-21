@@ -8,9 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		6E2538181D19BDC3003E3400 /* MTDates.h in Headers */ = {isa = PBXBuildFile; fileRef = 6E2538171D19BDC3003E3400 /* MTDates.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6E25381D1D19BDD5003E3400 /* NSDate+MTDates.h in Headers */ = {isa = PBXBuildFile; fileRef = C2ABA72215D490B4000A34A1 /* NSDate+MTDates.h */; };
+		6E25381D1D19BDD5003E3400 /* NSDate+MTDates.h in Headers */ = {isa = PBXBuildFile; fileRef = C2ABA72215D490B4000A34A1 /* NSDate+MTDates.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6E25381E1D19BDD5003E3400 /* NSDate+MTDates.m in Sources */ = {isa = PBXBuildFile; fileRef = C2ABA72315D490B4000A34A1 /* NSDate+MTDates.m */; };
-		6E25381F1D19BDD5003E3400 /* NSDateComponents+MTDates.h in Headers */ = {isa = PBXBuildFile; fileRef = C295B6E71607892000F4221C /* NSDateComponents+MTDates.h */; };
+		6E25381F1D19BDD5003E3400 /* NSDateComponents+MTDates.h in Headers */ = {isa = PBXBuildFile; fileRef = C295B6E71607892000F4221C /* NSDateComponents+MTDates.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6E2538201D19BDD5003E3400 /* NSDateComponents+MTDates.m in Sources */ = {isa = PBXBuildFile; fileRef = C295B6E81607892000F4221C /* NSDateComponents+MTDates.m */; };
 		C20254BB1751027100B6F23C /* NSDate+MTDates.m in Sources */ = {isa = PBXBuildFile; fileRef = C2ABA72315D490B4000A34A1 /* NSDate+MTDates.m */; };
 		C20254BC1751027100B6F23C /* NSDateComponents+MTDates.m in Sources */ = {isa = PBXBuildFile; fileRef = C295B6E81607892000F4221C /* NSDateComponents+MTDates.m */; };
